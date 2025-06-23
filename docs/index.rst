@@ -8,7 +8,7 @@ How to Download Total Defense Antivirus Safely and Securely?
    :caption: Contents:
 
 
-.. image:: https://iolosystemmechanicdownload.readthedocs.io/en/latest/_images/download.png
+.. image:: download.png
    :alt: My Project Logo
    :width: 400px
    :align: center
